@@ -1,2 +1,0 @@
-# botwacap
-botwacap
